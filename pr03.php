@@ -4,6 +4,7 @@
 </head>
 <body>
 <?php
+// Comentario del proyecto 1
 if (isset($_REQUEST['numeros'])){
 echo "el menor de entre ";
 foreach($_REQUEST['numeros'] as $num){
