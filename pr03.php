@@ -13,6 +13,8 @@ echo " {".$num."}";
 $menor = asort($_REQUEST['numeros']);
 echo $menor;
 }
+//comentario en el proyecto2
+//Comentario añadido despues
 ?>
 <br><br><br>
 <form action="pr03.php">
