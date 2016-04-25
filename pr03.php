@@ -20,6 +20,12 @@ echo $menor;
 <input type="number" name="numeros[]" required />
 <input type="number" name="numeros[]" required />
 <input type="number" name="numeros[]" required />
+<input type="number" name="numeros[]" required />
+<input type="number" name="numeros[]" required />
+<input type="number" name="numeros[]" required />
+<input type="number" name="numeros[]" required />
+<input type="number" name="numeros[]" required />
+
 <br>
 <button type="submit"> Dame el mnor</button>
 </form>
